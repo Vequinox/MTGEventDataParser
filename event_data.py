@@ -1,13 +1,14 @@
 import datetime
 from uszipcode import SearchEngine
 import mpu
-from colorama import Fore
+from colorama import Back, Fore
 import requests
 import json
 
 engine = SearchEngine()
 
-WDM_ZIP = engine.by_zipcode('50265')
+HOME_CITY = "West Des Moines"
+HOME_ZIP = engine.by_zipcode('50266')
 
 class Ev:
     def __init__(self, date, store, location, frmt):
@@ -35,16 +36,22 @@ def calcDrivingTime(zip1, zip2):
     return distance
 
 def printColor(someEvent):
-    color = Fore.WHITE
+    textColor = Fore.WHITE
+    backColor = Back.RESET
 
     if(someEvent.directDistance > 0 or someEvent.routeDistance > 0):
-        color = Fore.GREEN
-    if(someEvent.directDistance > 130 or someEvent.routeDistance > 130):
-        color = Fore.YELLOW
-    if(someEvent.directDistance > 200 or someEvent.routeDistance > 200):
-        color = Fore.RED
+        textColor = Fore.GREEN
+    if(someEvent.directDistance > 120 or someEvent.routeDistance > 120):
+        textColor = Fore.YELLOW
+    if(someEvent.directDistance > 180 or someEvent.routeDistance > 180):
+        textColor = Fore.RED
+    if(someEvent.directDistance > 240 or someEvent.routeDistance > 240):
+        textColor = Fore.BLACK
+        backColor = Back.RED
+    if(someEvent.directDistance > 300 or someEvent.routeDistance > 300):
+        return
 
-    print(color + "Loc: " + someEvent.location + "\tDistance: ", someEvent.directDistance, "  to ", someEvent.routeDistance, " miles (" + someEvent.date + " " + someEvent.store + ", " + someEvent.frmt + ")")
+    print(textColor + backColor + "Loc: " + someEvent.location + "\tDistance: ", someEvent.directDistance, "  to ", someEvent.routeDistance, " miles (" + someEvent.date + " " + someEvent.store + ", " + someEvent.frmt + ")")
 
 def parseData():
     allEvents = []
@@ -64,10 +71,12 @@ def parseData():
             farthest = 0
             zipLoop = 1
             for zip in zipcodes:
-                print("Getting distances from West Des Moines to " + zip.major_city + " zip: ", zip.zipcode, " #", zipLoop, "/", numOfZips, " - #", lineLoop, "/", numOfLines)
+                print("Getting distances from " + HOME_CITY + " to " + zip.major_city + " zip: ", zip.zipcode, " #", zipLoop, "/", numOfZips, " - #", lineLoop, "/", numOfLines)
                 zipLoop += 1
-                routeDistance = calcDrivingTime(WDM_ZIP, engine.by_zipcode(zip.zipcode))
-                directDistance = calcDistance(WDM_ZIP, engine.by_zipcode(zip.zipcode))
+                routeDistance = calcDrivingTime(HOME_ZIP, engine.by_zipcode(zip.zipcode))
+                directDistance = calcDistance(HOME_ZIP, engine.by_zipcode(zip.zipcode))
+                if(routeDistance > 300 or directDistance > 300):
+                    break
                 if routeDistance > farthest:
                     farthest = routeDistance
                 if directDistance > farthest:
