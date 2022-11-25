@@ -3,8 +3,6 @@ from uszipcode import SearchEngine
 import mpu
 from colorama import Fore
 from datetime import datetime
-#from bs4 import BeautifulSoup
-#import requests
 
 engine = SearchEngine()
 
@@ -17,8 +15,7 @@ class Ev:
         self.store = store.strip()
         self.location = location.strip()
         self.frmt = frmt.strip()
-        self.directDistance = 0
-        self.routeDistance = 0
+        self.dist = 0
 
     def __lt__(self, other):
         return self.date < other.date
@@ -44,8 +41,7 @@ def calcDrivingTime(zip1, zip2):
     return distance
 
 def printColor(someEvent):
-    textColor = Fore.WHITE
-    backColor = Back.RESET
+    color = Fore.WHITE
 
     if(someEvent.dist >= 0):
         color = Fore.GREEN
@@ -74,23 +70,13 @@ def parseData():
             c = evnt.location.split(',')[0]
             s = evnt.location.split(',')[1].strip()
             zipcodes = engine.by_city_and_state(city=c, state=s)
-            numOfZips = len(zipcodes)
             farthest = 0
-            zipLoop = 1
             for zip in zipcodes:
-                print("Getting distances from " + HOME_CITY + " to " + zip.major_city + " zip: ", zip.zipcode, " #", zipLoop, "/", numOfZips, " - #", lineLoop, "/", numOfLines)
-                zipLoop += 1
-                routeDistance = calcDrivingTime(HOME_ZIP, engine.by_zipcode(zip.zipcode))
-                directDistance = calcDistance(HOME_ZIP, engine.by_zipcode(zip.zipcode))
-                if(routeDistance > 300 or directDistance > 300):
-                    break
-                if routeDistance > farthest:
-                    farthest = routeDistance
-                if directDistance > farthest:
-                    farthest = directDistance
-            lineLoop += 1
-            evnt.routeDistance = routeDistance
-            evnt.directDistance = directDistance
+                dist = calcDistance(WDM_ZIP, engine.by_zipcode(zip.zipcode))
+                if dist > farthest:
+                    farthest = dist
+            
+            evnt.dist = farthest
 
             if showAll == 'n':
                 if evnt.dist <= 200:
@@ -101,22 +87,8 @@ def parseData():
             else:
                 allEvents.append(evnt)
 
-    # URL = "https://www.facebook.com/groups/MidwestTournamentUpdater/permalink/356913484471420"
-    # page = requests.get(URL)
-
-    # soup = BeautifulSoup(page.content, "html.parser")
-
-    # entries = soup.find_all("div", class_="mfn553m3")
-
-    # print(len(entries))
-    # for entry in entries:
-    #     print(entry)
-        
-    #for sortedEvent in sorted(allEvents):
-        #printColor(sortedEvent)
     for thisEvent in allEvents:
         printColor(thisEvent)
 
 
 parseData()
-#print(calcDistance(WDM_ZIP, engine.by_zipcode('50560')))
