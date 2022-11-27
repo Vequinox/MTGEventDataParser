@@ -1,84 +1,77 @@
-July 2 - Games by James - Minneapolis, MN - Limited
-July 2 - Nrdvana - Sioux Falls, SD - Modern
-July 9 - Limited Edition - Cedar Falls, IA - Pioneer
-July 9 - Mayhem Comics - Des Moines, IA - Modern
-July 9 - Evanston Games & Cafe - Evanston, IL - $1000 Modern
-July 9 - UCN Gaming - Plainfield, IN - Pioneer
-July 9 - Game Cafe - Independence, MO - Standard
-July 9 - Full Grip Games - Akron, OH - Modern
-July 16 - Game Kastle - Ankeny, IA - Modern
-July 16 - GameStorm - Lemont, IL - Modern
-July 16 - Pearl Street Games and Coffee - Jefferson, IN - Modern
-July 16 - Evolution Games - Lansing, MI - Pioneer
-July 16 - A Rising Star - Oakdale, MN - Modern
-July 16 - Spanky's Card Shop - Kansas City, MO - Pioneer
-July 16 - Neverending Game Store - Marshfield, MO - Standard
-July 16 - Level UP! - Superior, WI - Modern
-July 17 - The Gaming Warehouse - Grandville, MI - Pioneer
-July 17 - Spanky's Card Shop - Kansas City, MO - Pioneer
-July 23 - Pastimes - Niles, IL - TBA
-July 23 - The Dragon's Realm - Madison, IN - Pioneer
-July 23 - Firestorm Technology and Gaming - Fremont, MI - Limited
-July 23 - Legends Sports and Games - Grand Rapids, MI - $1000 Pioneer
-July 23 - HobbyTown USA (south) - Lincoln, NE - Pioneer
-July 24 - Gamers Sanctum - Sparta, WI - Modern
-July 24 - Goblin Games - Manhattan, KS - Modern
-July 30 - Champion's Archive - Garden City, KS - Limited
-July 30 - Meta Games Unlimited - Springfield, MO - Pioneer
-July 30 - Krypton Comics - Omaha, NE - $1000 Modern
-July 30 - The Realm Comics and Games - Mansfield, OH - $5000 Pioneer
-Aug 6 - Game State - Spencer, IA - $1000 Pioneer
-Aug 6 - Heroic Adventures - Edwardsville, IL - Pioneer
-Aug 6 - Hornet Games - Burlington, KS - Modern
-Aug 6 - The Gamers Guild - Hays, KS - Modern
-Aug 6 - Game Cafe - Independence, MO - Modern
-Aug 6 - Neverending Game Store - Marshfield, MO - Modern
-Aug 6 - Recess Games - Olmsted, OH - Modern
-Aug 13 - Evanston Games & Cafe - Evanston, IL - $1000 Modern
-Aug 13 - GameStorm - Lemont, IL - Modern
-Aug 13 - Pearl Street Games and Coffee - Jeffersonville, IN - Pioneer
-Aug 13 - Smallville Comics and Games - Hutchinson, KS - Pioneer
-Aug 13 - Grove Gamers Guild - Mountain Grove, MO - Pioneer
-Aug 13 - HobbyTown USA (south) - Lincoln, NE - Pioneer
-Aug 14 - The Illuminaudi - Hamilton, OH - Modern
-Aug 20 - Goblin Games - Manhattan, KS - Pioneer
-Aug 20 - The Geekery - Shawnee, KS - Modern
-Aug 20 - AFK Games - Holt, MI - Pioneer
-Aug 20 - Frost Giant - Green Bay, WI - Modern
-Aug 20 - Hobby Knights - West Bend, WI - Modern
-Aug 21 - The Castle Games - Seymour, IN - Modern
-Aug 21 - The Village Geek - Manhattan, KS - Pioneer
-Aug 27 - Pastimes - Niles, IL - TBA
-Aug 27 - The Castle Games - Columbus, IN - Pioneer
-Aug 27 - Tier 1 Games - Kokomo, IN - Modern
-Aug 27 - Collectors Corner - Shelbyville, IN - Modern
-Aug 27 - Hurley's Heroes - Joplin, MO - Pioneer
-Aug 27 - d20 Gaming - Eau Claire, WI - $2000 Modern
-Sept 3 - C and K Cards, Games, and More - Bolivar, MO - Pioneer
-Sept 10 - CollectOmaniacs - Springfield, MO - Modern
-Sept 10 - Full Grip Games - Akron, OH - Modern
-Sept 17 - HobbyTown USA (north) - Lincoln, NE - Pioneer (caps at 16)
-Sept 18 - Haven Games - Nixa, MO - Pioneer
-June 11 - The Hobby Horse - Taylorville, IL - Damien Donoho Memorial Modern Win-10-Foil-Fetchlands
-June 11 - Elemental Games - Alexandria, MN - $1000 Modern
-June 18 - Dreamers Vault Games - Champlin, MN - $2000 Modern
-June 25 - Over the Top Games - Davenport, IA - $1500 Pioneer
-June 25 - The Hobby Horse - Taylorville, IL - All-Rare Draft Win-P9-and-Duals
-June 25- The Castle Games - Columbus, IN - $1000 Modern
-June 25 - d20 Gaming - Eau Claire, WI - $1000 Modern
-Sept 17 - Gateway Convention Center (hosted by MissouriMTG) - Collinsville, IL - $40,000 Legacy (Unlimited Black Lotus door prize)
-Oct 1 - The Geekery - Kansas City, MO - Modern Charity Open
-June 11 - NRG Series - Lansing, MI - $10,000 Modern Trial
-June 12 - NRG Series - Lansing, MI - $5000 Pioneer Trial
-July 30 - NRG Series - Mundelein, IL - $10,000 Modern Trial
-July 31 - NRG Series - Mundelein, IL - $5000 Legacy Trial
-Aug 27 - NRG Series - St. Louis, MO - $20,000 Team TBA Showdown
-Aug 28 - NRG Series - St. Louis, MO - $5000 Modern Trial
-Oct 22 - NRG Series - Newark, OH - $10,000 TBA Trial
-Oct 23 - NRG Series - Newark, OH - $5000 TBA Trial
-Nov 5 - NRG Series - Fort Wayne, IN - $10,000 TBA Trial
-Nov 6 - NRG Series - Fort Wayne, IN - $5000 TBA Trial
-Nov 26 - NRG Series - Mundelein, IL - $10,000 TBA Trial
-Nov 27 - NRG Series - Mundelein, IL - $5000 TBA Trial
-Dec 10 - NRG Series - Louisville, KY - $20,000 Showdown
-Dec 11 - NRG Series - Louisville, KY - $5000 Trial
+Dec 3 - First Turn Games - Cedar Rapids, IA - Standard
+Dec 3 - Evanston Games - Evanston, IL - 2 slot BRO Limited
+Dec 3 - GameStorm Gaming - Lemont, IL - 2 slot Modern
+Dec 3 - The Collectors Zone - Pekin, IL - Pioneer
+Dec 3 - Tier 1 Games - Kokomo, IN - Standard
+Dec 3 - Moonshot Games - Noblesville, IN - 2 slot Standard
+Dec 3 - The Geekery - Shawnee, KS - Modern
+Dec 3 - Fanfare Sports and Entertainment - Kalamazoo, MI - Standard
+Dec 3 - Evolution Games - Lansing, MI - Standard
+Dec 3 - Eternal Games - Warren, MI - Modern
+Dec 3 - Elemental Games - Alexandria, MN - Modern
+Dec 3 - Ecade - Hutchinson, MN - Pioneer
+Dec 3 - Atlantis Hobby - Mankato, MN - 2 slot Modern
+Dec 3 - Lodestone Coffee and Games - Minnetonka, MN - 2 slot Modern
+Dec 3 - Dreamers Vault Games - South St. Paul, MN - Modern
+Dec 3 - Game Arena - Hannibal, MO - Modern
+Dec 3 - Spellbreaker Games - Jackson, MO - Pioneer
+Dec 3 - Neverending Game Store - Marshfield, MO - 2 slot Standard
+Dec 3 - The Wizard's Wagon - St. Louis, MO - Modern
+Dec 3 - Paradox ComicsNCards - Fargo, ND - 2 slot Modern
+Dec 3 - HobbyTown USA (south) - Lincoln, NE - 2 slot Modern
+Dec 3 - Epic Loot - Centerville, OH - Standard
+Dec 3 - Darkhold Games - Eaton, OH - Pioneer
+Dec 3 - Post Board Gaming - Findlay, OH - Modern
+Dec 3 - Game Room - Toledo, OH - Pioneer
+Dec 3 - The Labrynth Games - Baraboo, WI - Modern
+Dec 3 - Hero's Ink - Delavan, WI - BRO Limited
+Dec 3 - Colosseum Games - Kenosha, WI - Pioneer
+Dec 3 - Games For Us - Mauston, WI - BRO Limited
+Dec 3 - Odin Games and Hobby - Schofield, WI - Modern
+Dec 4 - MinMaxGames - Addison, IL - 2 slot Modern
+Dec 4 - GriffoNest Games - Woodstock, IL - 2 slot Pioneer
+Dec 4 - The Castle Games - Columbus, IN - 2 slot Pioneer
+Dec 4 - DZ Gaming - Decatur, IN - Pioneer
+Dec 4 - Eternal Games - Chesterfield, MI - Pioneer
+Dec 4 - Aces and Eagles Gaming & Supplies - Washington, MO - BRO Limited
+Dec 4 - Paradox ComicsNCards - Fargo, ND - 2 slot Modern
+Dec 4 - Apex Gaming - Caldwell, OH - 2 slot Pioneer (Destination Event)
+Dec 4 - The Illuminaudi - Hamilton, OH - $1000+ Modern
+Dec 4 - Heroes Welcome - Menomonie, WI - Modern
+Dec 10 - Dark Vassal Gaming - Cedar Falls, IA - Modern
+Dec 10 - Paragon Games - Wood River, IL - 2 slot BRO Limited
+Dec 10 - Full Moon Games - Terre Haute, IN - Modern
+Dec 10 - Gators Games and Hobby - Leavenworth, KS - 2 slot BRO Limited
+Dec 10 - Liberty Coin Service - Lansing, MI - $1000 Pioneer
+Dec 10 - The Dork Den - Mankato, MN - Standard
+Dec 10 - Grove Gamers Guild - Mountain Grove, MO - Standard
+Dec 10 - Game On - Kearney, NE - Standard
+Dec 10 - Krypton Comics - Omaha, NE - $1000 Modern
+Dec 10 - VGMX - Columbus, OH - Modern
+Dec 10 - Hobby Central - Delaware, OH - Modern
+Dec 10 - Frogtown Hobbies - Rossford, OH - 2 slot Pioneer
+Dec 10 - Dragon's Den - Sioux Falls, SD - Standard
+Dec 10 - Game Universe - Mequon, WI - Modern
+Dec 10 - Blind Tiger Games - Neenah, WI - Pioneer
+Dec 10 - Flipped Table Games - Stoughton, WI - Modern
+Dec 11 - Games King - Sioux City, IA - Standard
+Dec 11 - Iron Golem Games - Marquette, MI - Modern
+Dec 17 - Dungeon's Gate - Ankeny, IA - 2 slot BRO Limited
+Dec 17 - Good Games - Chicago, IL - Modern
+Dec 17 - 217 Comics, Cards, & Games - Springfield, IL - $1000 Pioneer
+Dec 17 - Ye Gamer's Guild - Greenwood, IN - Modern
+Dec 17 - Head to Head Games - Wabash, IN - Modern
+Dec 17 - The Gamers Guild - Hays, KS - BRO Limited
+Dec 17 - Modern Explorer's Guild - Midland, MI - 2 slot Pioneer
+Dec 17 - Lodestone Coffee and Games - Minnetonka, MN - 2 slot Modern
+Dec 17 - Game Cafe - Independence, MO - 2 slot Modern
+Dec 17 - Meta Games Unlimited - Springfield, MO - 2 slot Standard
+Dec 17 - Parallax Computer and Games - Bismarck, ND - Modern
+Dec 17 - Hobby Central - Delaware, OH - $1000 Modern
+Dec 17 - Dragon's Roost - Holland, OH - Pioneer
+Dec 17 - Recess Games - North Olmsted, OH - 2 slot Pioneer
+Dec 17 - Gamers Sanctum - Sparta, WI - Modern
+Dec 18 - Cabbages and Kings - Peoria, IL - Modern
+Dec 18 - Grognard Games - Roselle, IL - Pioneer
+Dec 18 - Pearl Street Games and Coffee - Jeffersonville, IN - 2 slot Standard
+Dec 18 - Modern Explorer's Guild - Midland, MI - 2 slot Pioneer
