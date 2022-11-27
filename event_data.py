@@ -41,40 +41,49 @@ def printColor(someEvent):
     print(color + "Loc: " + someEvent.location + duration + " (" + someEvent.date + " " + someEvent.store + ", " + someEvent.frmt + ")")
 
 def parseData():
-    allEvents = []
-    drivingFrom = input("Your address: ")
-    showAll = input("Show all events? (y/s/n) ")
-
     logger = logging.getLogger('WazeRouteCalculator.WazeRouteCalculator')
     logger.setLevel(logging.DEBUG)
     handler = logging.StreamHandler()
     logger.addHandler(handler)
 
+    allEvents = []
+
+    isDSM = input("IA and NE events only? (y/n)")
+
+    if isDSM == "n":
+        drivingFrom = input("Your address: ")
+        showAll = input("Show all events? (y/s/n) ")
+    else:
+        drivingFrom = "Des Moines, IA"
+        showAll = "y"
+
     with open("events.txt") as data:
         lines = data.readlines()
         for line in lines:
-            values = line.split("-")
+            values = line.split(" - ")
 
             date = values[0]
             store = values[1]
             location = values[2]
             mtgFormat = values[3]
-            evnt = Ev(date, store, location, mtgFormat)
 
-            drivingTo = store.strip() + ", " + location.strip()
-            route = WazeRouteCalculator.WazeRouteCalculator(drivingFrom, drivingTo, "US", avoid_toll_roads=True)
-            routeDuration = route.calc_route_info()[0]
-            evnt.travelHrs = int(routeDuration // 60)
-            evnt.travelMins = int(routeDuration % 60)
-            
-            if showAll == "n":
-                if evnt.travelHrs <= 2:
+            if (isDSM == "y" and (location.endswith("IA") or location.endswith("NE"))) or isDSM == "n":
+                drivingTo = store.strip() + ", " + location.strip()
+                route = WazeRouteCalculator.WazeRouteCalculator(drivingFrom, drivingTo, "US", avoid_toll_roads=True)
+                routeDuration = route.calc_route_info()[0]
+
+                evnt = Ev(date, store, location, mtgFormat)
+                evnt.travelHrs = int(routeDuration // 60)
+                evnt.travelMins = int(routeDuration % 60)
+                
+                if showAll == "n":
+                    if evnt.travelHrs <= 2:
+                        allEvents.append(evnt)
+                elif showAll == "s":
+                    if evnt.travelHrs <= 3:
+                        allEvents.append(evnt)
+                else:
                     allEvents.append(evnt)
-            elif showAll == "s":
-                if evnt.travelHrs <= 3:
-                    allEvents.append(evnt)
-            else:
-                allEvents.append(evnt)
 
     for thisEvent in allEvents:
         printColor(thisEvent)
