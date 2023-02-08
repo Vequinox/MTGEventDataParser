@@ -1,77 +1,146 @@
-Dec 3 - First Turn Games - Cedar Rapids, IA - Standard
-Dec 3 - Evanston Games - Evanston, IL - 2 slot BRO Limited
-Dec 3 - GameStorm Gaming - Lemont, IL - 2 slot Modern
-Dec 3 - The Collectors Zone - Pekin, IL - Pioneer
-Dec 3 - Tier 1 Games - Kokomo, IN - Standard
-Dec 3 - Moonshot Games - Noblesville, IN - 2 slot Standard
-Dec 3 - The Geekery - Shawnee, KS - Modern
-Dec 3 - Fanfare Sports and Entertainment - Kalamazoo, MI - Standard
-Dec 3 - Evolution Games - Lansing, MI - Standard
-Dec 3 - Eternal Games - Warren, MI - Modern
-Dec 3 - Elemental Games - Alexandria, MN - Modern
-Dec 3 - Ecade - Hutchinson, MN - Pioneer
-Dec 3 - Atlantis Hobby - Mankato, MN - 2 slot Modern
-Dec 3 - Lodestone Coffee and Games - Minnetonka, MN - 2 slot Modern
-Dec 3 - Dreamers Vault Games - South St. Paul, MN - Modern
-Dec 3 - Game Arena - Hannibal, MO - Modern
-Dec 3 - Spellbreaker Games - Jackson, MO - Pioneer
-Dec 3 - Neverending Game Store - Marshfield, MO - 2 slot Standard
-Dec 3 - The Wizard's Wagon - St. Louis, MO - Modern
-Dec 3 - Paradox ComicsNCards - Fargo, ND - 2 slot Modern
-Dec 3 - HobbyTown USA (south) - Lincoln, NE - 2 slot Modern
-Dec 3 - Epic Loot - Centerville, OH - Standard
-Dec 3 - Darkhold Games - Eaton, OH - Pioneer
-Dec 3 - Post Board Gaming - Findlay, OH - Modern
-Dec 3 - Game Room - Toledo, OH - Pioneer
-Dec 3 - The Labrynth Games - Baraboo, WI - Modern
-Dec 3 - Hero's Ink - Delavan, WI - BRO Limited
-Dec 3 - Colosseum Games - Kenosha, WI - Pioneer
-Dec 3 - Games For Us - Mauston, WI - BRO Limited
-Dec 3 - Odin Games and Hobby - Schofield, WI - Modern
-Dec 4 - MinMaxGames - Addison, IL - 2 slot Modern
-Dec 4 - GriffoNest Games - Woodstock, IL - 2 slot Pioneer
-Dec 4 - The Castle Games - Columbus, IN - 2 slot Pioneer
-Dec 4 - DZ Gaming - Decatur, IN - Pioneer
-Dec 4 - Eternal Games - Chesterfield, MI - Pioneer
-Dec 4 - Aces and Eagles Gaming & Supplies - Washington, MO - BRO Limited
-Dec 4 - Paradox ComicsNCards - Fargo, ND - 2 slot Modern
-Dec 4 - Apex Gaming - Caldwell, OH - 2 slot Pioneer (Destination Event)
-Dec 4 - The Illuminaudi - Hamilton, OH - $1000+ Modern
-Dec 4 - Heroes Welcome - Menomonie, WI - Modern
-Dec 10 - Dark Vassal Gaming - Cedar Falls, IA - Modern
-Dec 10 - Paragon Games - Wood River, IL - 2 slot BRO Limited
-Dec 10 - Full Moon Games - Terre Haute, IN - Modern
-Dec 10 - Gators Games and Hobby - Leavenworth, KS - 2 slot BRO Limited
-Dec 10 - Liberty Coin Service - Lansing, MI - $1000 Pioneer
-Dec 10 - The Dork Den - Mankato, MN - Standard
-Dec 10 - Grove Gamers Guild - Mountain Grove, MO - Standard
-Dec 10 - Game On - Kearney, NE - Standard
-Dec 10 - Krypton Comics - Omaha, NE - $1000 Modern
-Dec 10 - VGMX - Columbus, OH - Modern
-Dec 10 - Hobby Central - Delaware, OH - Modern
-Dec 10 - Frogtown Hobbies - Rossford, OH - 2 slot Pioneer
-Dec 10 - Dragon's Den - Sioux Falls, SD - Standard
-Dec 10 - Game Universe - Mequon, WI - Modern
-Dec 10 - Blind Tiger Games - Neenah, WI - Pioneer
-Dec 10 - Flipped Table Games - Stoughton, WI - Modern
-Dec 11 - Games King - Sioux City, IA - Standard
-Dec 11 - Iron Golem Games - Marquette, MI - Modern
-Dec 17 - Dungeon's Gate - Ankeny, IA - 2 slot BRO Limited
-Dec 17 - Good Games - Chicago, IL - Modern
-Dec 17 - 217 Comics, Cards, & Games - Springfield, IL - $1000 Pioneer
-Dec 17 - Ye Gamer's Guild - Greenwood, IN - Modern
-Dec 17 - Head to Head Games - Wabash, IN - Modern
-Dec 17 - The Gamers Guild - Hays, KS - BRO Limited
-Dec 17 - Modern Explorer's Guild - Midland, MI - 2 slot Pioneer
-Dec 17 - Lodestone Coffee and Games - Minnetonka, MN - 2 slot Modern
-Dec 17 - Game Cafe - Independence, MO - 2 slot Modern
-Dec 17 - Meta Games Unlimited - Springfield, MO - 2 slot Standard
-Dec 17 - Parallax Computer and Games - Bismarck, ND - Modern
-Dec 17 - Hobby Central - Delaware, OH - $1000 Modern
-Dec 17 - Dragon's Roost - Holland, OH - Pioneer
-Dec 17 - Recess Games - North Olmsted, OH - 2 slot Pioneer
-Dec 17 - Gamers Sanctum - Sparta, WI - Modern
-Dec 18 - Cabbages and Kings - Peoria, IL - Modern
-Dec 18 - Grognard Games - Roselle, IL - Pioneer
-Dec 18 - Pearl Street Games and Coffee - Jeffersonville, IN - 2 slot Standard
-Dec 18 - Modern Explorer's Guild - Midland, MI - 2 slot Pioneer
+Feb 11 - First Turn Games - Cedar Rapids, IA - Modern
+Feb 11 - Game State - Spencer, IA - $1000 Modern
+Feb 11 - MinMaxGames - Addison, IL - 2 slot Modern
+Feb 11 - Titan Games - Champaign, IL - Pioneer
+Feb 11 - Gators Games and Hobby - Leavenworth, KS - 2 slot Pioneer
+Feb 11 - Odyssey Games - Kalamazoo, MI - 2 slot Modern
+Feb 11 - Jester's Gallery - Waterford, MI - Pioneer
+Feb 11 - Dreamers Vault Games - Minneapolis, MN - Pioneer
+Feb 11 - Hurley's Heroes - Joplin, MO - Pioneer
+Feb 11 - Paradox Comics n Cards - Fargo, ND - 2 slot ONE Limited
+Feb 11 - JWW Sports Cards & Gaming - Fargo, ND - Modern
+Feb 11 - Krypton Comics - Omaha, NE - $1000 Modern
+Feb 11 - Level Two - Avon, OH - Modern
+Feb 11 - VGMX - Shrock - Columbus, OH - ONE Limited
+Feb 11 - Trading Card Academy - Harrison, OH - ONE Limited
+Feb 11 - Game Universe - Mequon, WI - Modern
+Feb 11 - ISO Games - Wausau, WI - Modern
+Feb 12 - Odyssey Games - Kalamazoo, MI - 2 slot Pioneer
+Feb 12 - Table Top Tournaments - Crystal, MN - Modern
+Feb 12 - Gamez & More - Rochester, MN - Modern
+Feb 18 - Limited Edition Comics - Cedar Falls, IA - Modern
+Feb 18 - Gamestorm - Lemont, IL - 2 slot Modern
+Feb 18 - Asgard Keep - Mount Vernon, IL - Pioneer
+Feb 18 - Grognard Games - Roselle, IL - Pioneer
+Feb 18 - Moonshot Games - Noblesville, IN - 2 slot ONE Limited
+Feb 18 - The Geekery - Shawnee, KS - 2 slot Modern
+Feb 18 - One Drop Game Shop - Wichita, KS - Modern
+Feb 18 - Galactic Toys - Kentwood, MI - 2 slot ONE Limited
+Feb 18 - The Dork Den - Mankato, MN - Pioneer
+Feb 18 - Cards N Stripes - Republic, MO - ONE Limited
+Feb 18 - Collector Store - St. Peters, MO - Modern
+Feb 18 - HobbyTown USA (south) - Lincoln, NE - 2 slot Modern
+Feb 18 - Full Grip Games - Akron, OH - 2 slot Modern
+Feb 18 - Epic Loot - Centerville, OH - 2 slot Pioneer
+Feb 18 - Dragon's Roost - Holland, OH - Pioneer
+Feb 18 - Game Room - Toledo, OH - Pioneer
+Feb 18 - Dragon's Den - Sioux Falls, SD - Modern
+Feb 18 - D20 Gaming - Eau Claire, WI - $1000 Modern
+Feb 18 - Blind Tiger Games - Neenah, WI - Pioneer
+Feb 19 - Games King - Sioux City, IA - Modern
+Feb 19 - The Zone - Pekin, IL - Pioneer
+Feb 19 - GriffoNest Games - Woodstock, IL - 2 slot Pioneer
+Feb 19 - Paradigm Games - Indianapolis, IN - ONE Limited
+Feb 19 - Pearl Street Games and Coffee - Jeffersonville, IN - 2 slot Modern
+Feb 19 - The Geekery - Shawnee, KS - 2 slot Modern
+Feb 19 - Parallax Computers and Games - Bismarck, ND - Pioneer
+Feb 19 - Hero's Ink - Delavan, WI - ONE Limited
+Feb 24 - Nerdy Necessities - Salem, OH - Pioneer
+Feb 25 - Red Raccoon Games - Bloomington, IL - Pioneer
+Feb 25 - Chupacabra Games - Naperville, IL - Modern
+Feb 25 - Pastimes - Niles, IL - 2 slot ONE Limited
+Feb 25 - Perfect Storm Comics and Games - Battle Creek, MI - Modern
+Feb 25 - Gamer's Gauntlet - Clinton Township, MI - Pioneer
+Feb 25 - Dreamers Vault Games - Burnsville, MN - Modern
+Feb 25 - Lodestone Coffee and Games - Minnetonka, MN - 2 slot Modern
+Feb 25 - Game Cafe - Independence, MO - 2 slot Pioneer
+Feb 25 - Spellbreaker Games - Jackson, MO - Modern
+Feb 25 - Meta Games Unlimited - Springfield, MO - 2 slot Pioneer
+Feb 25 - Paradox Comics n Cards - Fargo, ND - 2 slot Modern
+Feb 25 - No Limit Gaming - Kettering, OH - Modern
+Feb 25 - Misty Mountain Games - Madison, WI - Modern
+Feb 25 - The Boardwalk - Rice Lake, WI - ONE Limited
+Feb 26 - First Aid Comics - Hyde Park - Chicago, IL - ONE Limited
+Feb 26 - The Castle Games - Columbus, IN - 2 slot Modern
+Feb 26 - Eternal Games - Chesterfield, MI - Pioneer
+Feb 26 - Loot Box Games - Reynoldsburg, OH - Modern
+Mar 4 - Dungeon's Gate - Ankeny, IA - ONE Limited
+Mar 4 - Grab and Go Games - Carbondale, IL - Pioneer
+Mar 4 - Hotsauce Games - Downers Grove, IL - Pioneer
+Mar 4 - Amazing Fantasy Books and Comics - Frankfort, IL - Pioneer
+Mar 4 - Moonshot Games - Noblesville, IN - 2 slot ONE Limited
+Mar 4 - Take Action - Warsaw, IN - Modern
+Mar 4 - Mind Sculpt Games - Great Bend, KS - Pioneer
+Mar 4 - The Village Geek - Manhattan, KS - Pioneer
+Mar 4 - Larry's Game Store - Olathe, KS - Pioneer
+Mar 4 - Evolution Games - Lansing, MI - Win a Dual Modern
+Mar 4 - Level Up Games - Hastings, MN - 2 slot ONE Limited
+Mar 4 - Atlantis Hobby - Mankato, MN - 2 slot Modern
+Mar 4 - Neverending Game Store - Marshfield, MO - 2 slot Standard
+Mar 4 - Hero's Hearth Games - Cincinnati, OH - ONE Limited
+Mar 4 - Great Oak Tavern - Wadsworth, OH - ONE Limited
+Mar 4 - Playmakers - Rapid City, SD - Modern
+Mar 4 - Frost Giant Games - Green Bay, WI - Modern
+Mar 4 - Pink Bunny Games - Milwaukee, WI - Modern
+Mar 4 - Adventure Games - Oshkosh, WI - 2 slot Pioneer
+Mar 5 - Chicagoland Games - Chicago, IL - Pioneer
+Mar 5 - Goblin Games - Manhattan, KS - 2 slot Pioneer
+Mar 5 - C and K Cards, Games, and More - Bolivar, MO - 2 slot Pioneer
+Mar 5 - Total Gaming Experience - Chillicothe, OH - $1k+ Modern
+Mar 5 - Card Castle Games - Columbus, OH - ONE Limited
+Mar 11 - Games Plus One - Davenport, IA - Pioneer
+Mar 11 - Pastimes - Niles, IL - 2 slot Modern
+Mar 11 - Gators Games and Hobby - Leavenworth, KS - 2 slot Standard
+Mar 11 - Liberty Coin Service - Lansing, MI - Pioneer
+Mar 11 - Dreamers Vault Games - Champlin, MN - Pioneer
+Mar 11 - Grove Gamers Guild - Mountain Grove, MO - Pioneer
+Mar 11 - Black Swamp Games - Bowling Green, OH - Modern
+Mar 11 - Noble Knight Games - Fitchburg, WI - DMR Limited
+Mar 11 - Game Universe - Franklin, WI - Pioneer
+Mar 12 - Grandmaster Games - Oak Park, IL - Pioneer
+Mar 12 - The Upkeep Games - Ann Arbor, MI - 2 slot Modern
+Mar 18 - Remis Arcane Exchange - Muscatine, IA - ONE Limited
+Mar 18 - The Dragon's Refuge - Bourbonnais, IL - Pioneer
+Mar 18 - Evanston Games and Cafe - Evanston, IL - 2 slot ONE Limited
+Mar 18 - Gamestorm - Lemont, IL - 2 slot Modern
+Mar 18 - Pink Elephant Games and Hobby - Wichita, KS - Pioneer
+Mar 18 - AFK Games - Holt, MI - Modern
+Mar 18 - Iron Golem Games - Marquette, MI - Modern
+Mar 18 - Modern Explorer's Guild - Midland, MI - 2 slot Pioneer
+Mar 18 - Elemental Games - Alexandria, MN - Modern
+Mar 18 - The Forge - Chaska, MN - Pioneer
+Mar 18 - Mystic Fortress Games - Waconia, MN - ONE Limited
+Mar 18 - Spanky's Card Shop - Kansas City, MO - 2 slot Pioneer
+Mar 18 - The Gaming Center - Perryville, MO - Pioneer
+Mar 18 - HobbyTown USA (south) - Lincoln, NE - 2 slot Modern
+Mar 18 - Maverick's Cards and Hobbies - Mason, OH - Pioneer
+Mar 18 - Heroes Welcome - Menomonie, WI - Modern
+Mar 18 - Deals N Dragons - Platteville, WI - Modern
+Mar 18 - Flipped Table Games - Stoughton, WI - Modern
+Mar 19 - The Upkeep Games - Ann Arbor, MI - 2 slot ONE Limited
+Mar 19 - Tri County Ninja and Collectibles - Fenton, MI - ONE Limited
+Mar 19 - Spanky's Card Shop - Kansas City, MO - 2 slot Modern
+Mar 25 - Paper or Plastic Sports and Games - Shorewood, IL - Pioneer
+Mar 25 - The Castle Games - Columbus, IN - 2 slot Pioneer
+Mar 25 - Goblin Games - Manhattan, KS - 2 slot Modern
+Mar 25 - The Village Geek - McPherson, KS - Pioneer
+Mar 25 - The Upkeep Games - Howell, MI - 2 slot Modern
+Mar 25 - Our House Games - Monroe, MI - Modern
+Mar 25 - Dreamers Vault Games - South Saint Paul, MN - Modern
+Mar 25 - Neverending Game Store - Marshfield, MO - 2 slot Modern
+Mar 25 - Full Grip Games - Akron, OH - 2 slot Pioneer
+Mar 25 - Midwest Jedi - River Falls, WI - Pioneer
+Mar 26 - Mayhem Comics - Des Moines, IA - ONE Limited
+Mar 26 - The Upkeep Games - Howell, MI - 2 slot ONE Limited
+Apr 1 - Dungeon's Gate - Ankeny, IA - TBA
+Apr 1 - MinMaxGames - Addison, IL - 2 slot Modern
+Apr 1 - Trade Mart - Moline, IL - Modern
+Apr 1 - The 10th Planet - Schererville, IN - Pioneer
+Apr 1 - Fantasy Games - South Bend, IN - Standard
+Apr 1 - Galactic Toys - Kentwood, MI - 2 slot Pioneer
+Apr 1 - Level Up Games - Minneapolis, MN - 2 slot Pioneer
+Apr 1 - C and K Cards, Games, and More - Bolivar, MO - 2 slot Pioneer
+Apr 1 - HobbyTown USA (north) - Lincoln, NE - Modern
+Apr 1 - Hobby Central - Delaware, OH - Modern
+Apr 2 - Good Games - Chicago, IL - Modern
+Apr 2 - Haven Games - Nixa, MO - Pioneer
