@@ -40,6 +40,23 @@ def printColor(someEvent):
         duration = "\t" + duration
     print(color + "Loc: " + someEvent.location + duration + " (" + someEvent.date + " " + someEvent.store + ", " + someEvent.frmt + ")")
 
+def progressBar(iterable, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
+    total = len(iterable)
+
+    def printProgressBar (iteration):
+        percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
+        filledLength = int(length * iteration // total)
+        bar = fill * filledLength + '-' * (length - filledLength)
+        print(f'\r{prefix} |{bar}| {percent}% {suffix}', end = printEnd)
+
+    printProgressBar(0)
+
+    for i, item in enumerate(iterable):
+        yield item
+        printProgressBar(i + 1)
+
+    print()
+
 def parseData():
     #logger = logging.getLogger('WazeRouteCalculator.WazeRouteCalculator')
     #logger.setLevel(logging.DEBUG)
@@ -59,8 +76,8 @@ def parseData():
 
     with open("events.txt") as data:
         lines = data.readlines()
-        for line in lines:
             values = line.split(" - ")
+        for line in progressBar(lines, prefix="Progress:", suffix="Complete"):
 
             date = values[0]
             store = values[1]
