@@ -41,10 +41,10 @@ def printColor(someEvent):
     print(color + "Loc: " + someEvent.location + duration + " (" + someEvent.date + " " + someEvent.store + ", " + someEvent.frmt + ")")
 
 def parseData():
-    logger = logging.getLogger('WazeRouteCalculator.WazeRouteCalculator')
-    logger.setLevel(logging.DEBUG)
-    handler = logging.StreamHandler()
-    logger.addHandler(handler)
+    #logger = logging.getLogger('WazeRouteCalculator.WazeRouteCalculator')
+    #logger.setLevel(logging.DEBUG)
+    #handler = logging.StreamHandler()
+    #logger.addHandler(handler)
 
     allEvents = []
 
