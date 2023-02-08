@@ -4,7 +4,7 @@ import logging
 from colorama import Fore
 from datetime import datetime
 
-YEAR = "2022"
+YEAR = "2023"
 
 class Ev:
     def __init__(self, date, store, location, frmt):
