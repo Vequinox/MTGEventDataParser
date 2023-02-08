@@ -1,6 +1,7 @@
 import datetime
 import WazeRouteCalculator
 import logging
+import re
 from colorama import Fore
 from datetime import datetime
 
@@ -40,6 +41,15 @@ def printColor(someEvent):
         duration = "\t" + duration
     print(color + "Loc: " + someEvent.location + duration + " (" + someEvent.date + " " + someEvent.store + ", " + someEvent.frmt + ")")
 
+def isBadEvent(line):
+    return len(line.split(" - ")) != 4
+
+def performRegex(line):
+    newLine = line
+    if re.search("\w-\w", line):
+        newLine = re.sub("(\w)-(\w)", r"\1 \2", newLine)
+    return newLine
+
 def progressBar(iterable, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
     total = len(iterable)
 
@@ -64,6 +74,7 @@ def parseData():
     #logger.addHandler(handler)
 
     allEvents = []
+    badEvents = []
 
     isDSM = input("IA and NE events only? (y/n)")
 
@@ -76,8 +87,13 @@ def parseData():
 
     with open("events.txt") as data:
         lines = data.readlines()
-            values = line.split(" - ")
         for line in progressBar(lines, prefix="Progress:", suffix="Complete"):
+            cleanLine = performRegex(line)
+            if isBadEvent(cleanLine):
+                badEvents.append(cleanLine)
+                continue
+
+            values = cleanLine.split(" - ")
 
             date = values[0]
             store = values[1]
@@ -104,5 +120,10 @@ def parseData():
 
     for thisEvent in allEvents:
         printColor(thisEvent)
+
+    if len(badEvents) > 0:
+        print("***Found issues with the following events: ")
+        for event in badEvents:
+            print(event)
 
 parseData()
