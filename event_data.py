@@ -9,7 +9,7 @@ YEAR = "2023"
 
 class Ev:
     def __init__(self, date, store, location, frmt):
-        self.date = convertToDate(date.strip())
+        self.date = date
         self.store = store.strip()
         self.location = location.strip()
         self.frmt = frmt.strip()
@@ -100,7 +100,7 @@ def parseData():
 
             values = cleanLine.split(" - ")
 
-            date = values[0]
+            date = convertToDate(values[0].strip())
             store = values[1]
             location = values[2]
             mtgFormat = values[3]
