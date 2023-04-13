@@ -24,6 +24,11 @@ def convertToDate(dateString):
     month = splitDate[0]
     day = splitDate[1]
 
+    if(month == "June" or month == "june"):
+        month = "Jun"
+    elif(month == "July" or month == "july"):
+        month = "Jul"
+    
     return datetime.strptime(YEAR + "/" + month + "/" + day, "%Y/%b/%d").strftime("%Y/%m/%d")
 
 def printColor(someEvent):
