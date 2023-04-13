@@ -9,7 +9,7 @@ YEAR = "2023"
 
 class Ev:
     def __init__(self, date, store, location, frmt):
-        self.date = convertToDate(date.strip())
+        self.date = date
         self.store = store.strip()
         self.location = location.strip()
         self.frmt = frmt.strip()
@@ -24,6 +24,11 @@ def convertToDate(dateString):
     month = splitDate[0]
     day = splitDate[1]
 
+    if(month == "June" or month == "june"):
+        month = "Jun"
+    elif(month == "July" or month == "july"):
+        month = "Jul"
+    
     return datetime.strptime(YEAR + "/" + month + "/" + day, "%Y/%b/%d").strftime("%Y/%m/%d")
 
 def printColor(someEvent):
@@ -78,15 +83,22 @@ def parseData():
 
     isDSM = input("IA and NE events only? (y/n)")
 
-    if isDSM == "n":
+    if(isDSM == "n"):
         drivingFrom = input("Your address: ")
         showAll = input("Show all events? (y/s/n) ")
     else:
         drivingFrom = "Des Moines, IA"
         showAll = "y"
 
+    isSpecificDateRange = input("Specify date range? (y/n) ")
+
+    if(isSpecificDateRange == "y"):
+        dateRangeStart = convertToDate(input("Date range start? Example: Jun 8 "))
+        dateRangeEnd = convertToDate(input("Date range end? Example: Jun 10 "))
+    
     with open("events.txt") as data:
         lines = data.readlines()
+        #for line in lines:
         for line in progressBar(lines, prefix="Progress:", suffix="Complete"):
             cleanLine = performRegex(line)
             if isBadEvent(cleanLine):
@@ -95,12 +107,12 @@ def parseData():
 
             values = cleanLine.split(" - ")
 
-            date = values[0]
+            date = convertToDate(values[0].strip())
             store = values[1]
             location = values[2]
             mtgFormat = values[3]
 
-            if (isDSM == "y" and (location.endswith("IA") or location.endswith("NE"))) or isDSM == "n":
+            if (isDSM == "y" and (location.endswith("IA") or location.endswith("NE"))) or (isSpecificDateRange == "y" and dateRangeStart <= date and dateRangeEnd >= date) or (isSpecificDateRange == "n" and isDSM == "n"):
                 drivingTo = store.strip() + ", " + location.strip()
                 route = WazeRouteCalculator.WazeRouteCalculator(drivingFrom, drivingTo, "US", avoid_toll_roads=True)
                 routeDuration = route.calc_route_info()[0]
